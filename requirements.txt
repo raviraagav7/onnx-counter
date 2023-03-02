@@ -1,0 +1,11 @@
+torch==1.2.0
+torchvision==0.13.0
+onnx==1.12.0
+xlsxwriter==3.0.3
+rich==12.5.1
+pandas==1.4.3
+tqdm==4.64.0
+onnx-simplifier==0.4.0
+PyYAML==6.0
+dohq-artifactory==0.8.1
+python-dotenv==0.20.0
